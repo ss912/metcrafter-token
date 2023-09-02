@@ -1,4 +1,3 @@
-```markdown
 # MyToken Smart Contract
 
 MyToken is a simple Ethereum-based smart contract that implements a basic token system. It allows minting and burning tokens, tracks token balances for different addresses, and maintains information about the token.
